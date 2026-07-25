@@ -537,11 +537,6 @@ body {
   color: var(--text-2);
   letter-spacing: 0;
   line-height: 1.5;
-  display: -webkit-box;
-  -webkit-line-clamp: 3;
-  /* stylelint-disable-next-line */
-  -webkit-box-orient: vertical;
-  overflow: hidden;
 }
 
 .card-value.is-null {
